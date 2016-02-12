@@ -1,0 +1,22 @@
+li {
+    display: inline-block;
+    /*width: 200px;
+    height: 200px;*/
+    border: dashed 2px black;
+    border-radius: 25%;
+}
+
+a {
+    border: solid 2px pink;
+    display: block;
+    /*width: 200px;
+    height: 200px;*/
+    text-align: center;
+    color: red;
+    border-radius: 25%;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: blue;
+}
